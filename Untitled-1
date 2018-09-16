@@ -1,0 +1,9 @@
+const names = ['Wed', 'Test', 'Ed', 'Red']
+names[1] // Ted
+
+// for
+for (let i = 0; i < names.length; i++) {
+
+}
+// for of
+// for in
